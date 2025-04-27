@@ -43,7 +43,7 @@ public class FixturesTest extends BaseADFTest {
      * Tests if the wifi is on
      */
     @Test
-    public void testWifiOn (){
+    public void testWiFiOn (){
         assertIdStatus(R.id.wifi, true);
     }
 
