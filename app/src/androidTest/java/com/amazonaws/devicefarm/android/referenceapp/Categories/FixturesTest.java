@@ -48,7 +48,7 @@ public class FixturesTest extends BaseADFTest {
     }
 
     /**
-     * Tests if the bluetooth is on
+     * Tests if the Bluetooth is on
      */
     @Test
     public void testBluetoothOn() {
